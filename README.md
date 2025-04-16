@@ -1,17 +1,23 @@
 TG： https://t.me/isdapp
 
 
-## Screenshots
-![1](01.png)
-![2](02.JPG)
-![5](05.JPG)
-![3](03.JPG)
-![6](06.JPG)
-![7](07.JPG)
-![8](08.JPG)
-![9](09.JPG)
-![10](10.JPG)
-![smaol](small.png)
+V2演示：
+
+演示地址：https://v2huobi.waps.eu.org/
+
+测试账号：13200010001
+
+一级密码：000000
+
+二级密码：111111
+
+后台登陆：
+
+https://v2huobi.waps.eu.org/admin/login?urlkey=123456
+
+账号：admin
+
+密码：admin888
 
 V6版本 升级日志
 1：框架安全防御升级，增强安全，稳定。
@@ -91,6 +97,21 @@ V2版本 （源码 4000u）
 14：全自动行情采集，自动刷新。
 
 15：支持全自动模拟交易，曲线自动产生，K线清晰易懂。
+
+
+## Screenshots
+![1](01.png)
+![2](02.JPG)
+![5](05.JPG)
+![3](03.JPG)
+![6](06.JPG)
+![7](07.JPG)
+![8](08.JPG)
+![9](09.JPG)
+![10](10.JPG)
+![smaol](small.png)
+
+
 
 
 
