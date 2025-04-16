@@ -1,8 +1,6 @@
 TG： https://t.me/isdapp
 
-# exchange-huobi
-
-支持以太坊以及ERC2.0和BTC等 仿火币交易所 otc c2c 币挖矿区块链 机器人 行情同步 pc+app
+# 支持以太坊以及ERC2.0和BTC等 仿火币交易所 otc c2c 币挖矿区块链 机器人 行情同步 pc+app
 
 
 V2演示地址：https://v2huobi.waps.eu.org/
