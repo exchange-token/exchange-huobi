@@ -1,22 +1,19 @@
 TG： https://t.me/isdapp
 
+# exchange-huobi
 
-V2演示：
+支持以太坊以及ERC2.0和BTC等 仿火币交易所 otc c2c 币挖矿区块链 机器人 行情同步 pc+app
 
-演示地址：https://v2huobi.waps.eu.org/
+
+V2演示地址：https://v2huobi.waps.eu.org/
 
 测试账号：13200010001
-
 一级密码：000000
-
 二级密码：111111
 
-后台登陆：
-
-https://v2huobi.waps.eu.org/admin/login?urlkey=123456
+后台登陆： https://v2huobi.waps.eu.org/admin/login?urlkey=123456
 
 账号：admin
-
 密码：admin888
 
 V6版本 升级日志
